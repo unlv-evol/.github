@@ -2,7 +2,7 @@
 The Software Evolution Lab is home to graduate researchers in advancing empiricial software engineering research at [UNLV](https://unlv.edu). The `EVOL Research Group` is headed by [Prof. John Businge](https://johnxu21.github.io/). 
 
 ## EVOL Research Group
-The current research interests are in the areas of code recommenders. This includes searching for code snippets (bug/vulnerability fix, refactoring, test cases, optimizations, e.t.c) and recommending them. As a next step after the snippet search, we want to help the developer with the integration of the snippet. However, we can also be a little flexible. If you have a related software engineering topic that sounds interesting to me, feel free to email us with specifics.
+The current research interests are in the areas of code recommenders. This includes searching for code snippets (bug/vulnerability fix, refactoring, test cases, optimizations, e.t.c) and recommending them. As a next step after the snippet search, we want to help the developer with the integration of the snippet. However, we can also be a little flexible. If you have a related software engineering topic that sounds interesting, feel free to email us with specifics.
 
 ## Repostories
 1. [RefMergeCommits](https://github.com/unlv-evol/RefMergeCommits) - It analyzes merge commits in git repositories and determines changes and merge conflicts caused by refactoring operations
