@@ -4,7 +4,7 @@ The Software Evolution Lab is home to graduate researchers in advancing empirici
 ## EVOL Research Group
 The current research interests are in the areas of code recommenders. This includes searching for code snippets (bug/vulnerability fix, refactoring, test cases, optimizations, e.t.c) and recommending them. As a next step after the snippet search, we want to help the developer with the integration of the snippet. However, we can also be a little flexible. If you have a related software engineering topic that sounds interesting, feel free to email us with specifics.
 
-## Repostories
+## Repositories
 1. [RefMergeCommits](https://github.com/unlv-evol/RefMergeCommits) - It analyzes merge commits in git repositories and determines changes and merge conflicts caused by refactoring operations
 2. [PatchIntegrator](https://github.com/unlv-evol/PatchIntegrator) - A good first look at patch integration from source to target variant in divergent fork
 
