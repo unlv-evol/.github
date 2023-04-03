@@ -1,4 +1,4 @@
-# Software Evolution Lab (EVOL)
+# Software Evolution (EVOL) Lab
 The Software Evolution Lab is home to graduate researchers in advancing empiricial software engineering research at [UNLV](https://unlv.edu). The `EVOL Research Group` is headed by [Prof. John Businge](https://johnxu21.github.io/). 
 
 ## EVOL Research Group
