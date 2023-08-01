@@ -7,6 +7,7 @@ The current research interests are in the areas of code recommenders. This inclu
 ## Repositories
 1. [RefMergeCommits](https://github.com/unlv-evol/RefMergeCommits) - It analyzes merge commits in git repositories and determines changes and merge conflicts caused by refactoring operations
 2. [PatchIntegrator](https://github.com/unlv-evol/PatchIntegrator) - A good first look at patch integration from source to target variant in divergent fork
+3. [PaReco](https://github.com/unlv-evol/PaReco) - Patched clones and missed patches among the divergent variants of a software family
 
 ## Publications 
 **2022**
